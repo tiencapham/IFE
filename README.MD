@@ -1,6 +1,6 @@
 # Pay Attention to What and Where? Interpretable Feature Extractor for Vision-based Deep Reinforcement Learning
 
-This repository is the official implementation of [Pay Attention to What and Where? Interpretable Feature Extractor for Vision-based Deep Reinforcement Learning] for submission in NEURIPS 2024
+This repository is the official implementation of [Pay Attention to What and Where? Interpretable Feature Extractor for Vision-based Deep Reinforcement Learning] for submission in IJCNN 2025
 
 ## Proposed approach
 
